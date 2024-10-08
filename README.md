@@ -7,4 +7,4 @@ Using OpenWeather Api for Built-in API request by city name with reactJS.
 
 ## 🚀 DEMO
 
-[Deploy](https://weatherApp.netlify.app/)
+[Deploy](https://6704f92f446fab1779e33517--tiempo-react-app.netlify.app/)
